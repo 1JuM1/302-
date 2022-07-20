@@ -16,8 +16,7 @@
     <li><a href="chat.html" target="_blank">채팅</a></li>
     </ul>
 
-  <h1><strong>ㅎㅗㅏㅅㅜㄹ</strong></h1>
-  <h3>ㄷㅜㄱㅗㅏㄹㅅㅣㄱ ㅍㅛㅎㅕㄴㅇㅡㄴ ㄴㅗㄴㄹㅣㄹㅡㄹ ㅈㅓㄴㄱㅐㅎㅏㄴㅡㄴ ㄷㅔ ㅋㅓㄷㅏㄹㅏㄴ ㅇㅣㅈㅓㅁㅇㅣ ㄷㅗㅣㅇㅓㅈㅜㅂㄴㅣㄷㅏ. </h3>
+  
   <div id="disqus_thread"></div>
 <script>
     /**
