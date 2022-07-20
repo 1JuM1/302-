@@ -1,0 +1,39 @@
+<html>
+<head>
+  <title>302게시판</title>
+  <h1>302게시판</h1>
+    <meta_charset="utf-8">
+</head>
+
+<body>
+  <ul>
+    <li><a href="1.html" target="_blank">명언</a></li>
+    <li><a href="2.html" target="_blank">책추천</a></li>
+    <li><a href="3.html" target="_blank">기술소개</a></li>
+    <li><a href="4.html" target="_blank">면접문</a></li>
+    <li><a href="5.html" target="_blank">우리반의 <strong>''신''</strong></a></li>
+        <li><a href="6.html" target="_blank">급식표</a></li>
+    <li><a href="chat.html" target="_blank">채팅</a></li>
+    </ul>
+
+  <h1><strong>ㅎㅗㅏㅅㅜㄹ</strong></h1>
+  <h3>ㄷㅜㄱㅗㅏㄹㅅㅣㄱ ㅍㅛㅎㅕㄴㅇㅡㄴ ㄴㅗㄴㄹㅣㄹㅡㄹ ㅈㅓㄴㄱㅐㅎㅏㄴㅡㄴ ㄷㅔ ㅋㅓㄷㅏㄹㅏㄴ ㅇㅣㅈㅓㅁㅇㅣ ㄷㅗㅣㅇㅓㅈㅜㅂㄴㅣㄷㅏ. </h3>
+  <div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://gs-com.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
